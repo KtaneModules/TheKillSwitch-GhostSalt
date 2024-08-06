@@ -1,0 +1,10 @@
+{
+  "name": "GSKillSwitch-Editor",
+  "references": [
+    "GSKillSwitch"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
